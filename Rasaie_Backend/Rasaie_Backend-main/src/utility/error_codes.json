@@ -1,0 +1,88 @@
+{
+  "emailOrPasswordIssue": {
+    "code": "",
+    "message": "Email or password not correct",
+    "name": "Error"
+  },
+  "orderAlreadyAccepted": {
+    "code": "",
+    "message": "orderAlreadyAccepted",
+    "name": "Error"
+  },
+  "AlreadyExistsIssue": {
+    "code": 422,
+    "message": "Already Exists",
+    "name": "Error"
+  },
+  "Exists": {
+    "code": 200,
+    "data": {
+      "exists": true
+    },
+    "name": "Success"
+  },
+  "DoesNotExistIssue": {
+    "code": 200,
+    "data": {
+      "exists": false
+    },
+    "name": "Success"
+  },
+  "NotFoundIssue": {
+    "code": 200,
+    "message": "Not Found",
+    "name": "Success",
+    "data": []
+  },
+  "BadRequest": {
+    "code": 400,
+    "message": "Bad Request",
+    "name": "Error"
+  },
+  "UnprocessableEntity": {
+    "code": 422,
+    "message": "Unprocessable Entity",
+    "name": "Error"
+  },
+  "Successfull": {
+    "code": 200,
+    "message": "Successful",
+    "name": "Success"
+  },
+  "IdNotFound": {
+    "code": 500,
+    "message": "Id field is Empty",
+    "name": "Error",
+    "data": []
+  },
+  "ArrayRequired": {
+    "code": 500,
+    "message": "Array Required",
+    "name": "Error"
+  },
+  "InternalServerError": {
+    "code": 500,
+    "message": "Internal Server Error",
+    "name": "Error"
+  },
+  "EmptyBody": {
+    "code": 404,
+    "message": "Body is Empty",
+    "name": "Error"
+  },
+  "Unauthorized": {
+    "code": 403,
+    "message": "Unauthorized",
+    "name": "Forbidden"
+  },
+  "RequiredFields": {
+    "code": 422,
+    "message": "Please fill all required fields",
+    "name": "Error"
+  },
+  "EmptyArray": {
+    "code": 422,
+    "message": "Array is Empty",
+    "name": "Error"
+  }
+}

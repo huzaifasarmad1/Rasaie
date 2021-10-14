@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "693800504939",
+    "firebase_url": "https://rasaie-170bc-default-rtdb.firebaseio.com",
+    "project_id": "rasaie-170bc",
+    "storage_bucket": "rasaie-170bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693800504939:android:79cda7e88fb49b56472b2e",
+        "android_client_info": {
+          "package_name": "com.rasaie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693800504939-m4nhmkfepqct1l7tq6e1dbs74pjrli38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693800504939-m4nhmkfepqct1l7tq6e1dbs74pjrli38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
